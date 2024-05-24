@@ -1,0 +1,3 @@
+#IMPORTANDO O OPENCV
+import cv2
+
